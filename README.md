@@ -1,3 +1,3 @@
 # Kidney-Disease-Classification
 
-About Dataset : CT KIDNEY DATASET: Normal-Cyst-Tumor and Stone
+Classification of CT KIDNEY DATASET: Normal-Cyst-Tumor and Stone
