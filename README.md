@@ -1,4 +1,4 @@
-# Kidney-Disease-Classification
+# Kidney-Diseases-Classification
 
 Classification of CT KIDNEY DATASET: Normal-Cyst-Tumor and Stone
 
